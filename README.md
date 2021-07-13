@@ -1,7 +1,7 @@
 # Chester Token
  Deploy ERC20 token for Udacity's Blockchain Developer Nanodegree
 
- You can view the currently deployed Chester Tokens on the [Ropsten Network] (https://ropsten.etherscan.io/token/0x206827a51f2b1ced4b52e5c7d1c7b81ef622f6fb)
+ You can view the currently deployed Chester Tokens on the [Ropsten Network](https://ropsten.etherscan.io/token/0x206827a51f2b1ced4b52e5c7d1c7b81ef622f6fb)
 
  ## Installation
  - Download or fork code and `cd` to the `ChesterToken` directory
